@@ -1,0 +1,24 @@
+.Coding-Main {
+    flex: 1;
+    padding: 1%;
+    text-align: center;
+}
+
+.Coding_padding_div {
+    margin-top: 3%;
+    border-radius: 100px;
+    width: 61%;
+    height: 80%;
+    margin-left: 17%;
+    background-color: white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+.Coding_img {
+    margin-top: 12%;
+}
+
+.Coding_heading {
+    font-family: 'Nunito', sans-serif;
+
+}

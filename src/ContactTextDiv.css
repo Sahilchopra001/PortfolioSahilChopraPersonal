@@ -1,0 +1,26 @@
+.Main-ContactTextDiv {
+    flex : 0.8;
+    background-color: rgba(0, 0, 0, 0.849);
+    text-align: center;
+    color : rgba(255, 255, 255, 0.671);
+    padding:4.5% 0% 0% 0;
+}
+
+.Contact_icons { 
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+
+
+.Contact_icons > a > h5 {
+    color: white;
+    margin: 3.5% 0 3.5% 0;
+}
+
+
+.Contact_icons > a > h6 {
+    color: gray;
+    text-decoration: overline;
+    margin-top: 5%;
+}

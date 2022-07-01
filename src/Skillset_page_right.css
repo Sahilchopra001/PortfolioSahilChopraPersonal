@@ -1,0 +1,10 @@
+.Main-Skillset_page_right {
+    flex: 1;
+    text-align: end;
+    margin-top: -0.5%;
+}
+
+.skills_bar { 
+    font-size: 110%;
+    margin-top: 3%;
+}

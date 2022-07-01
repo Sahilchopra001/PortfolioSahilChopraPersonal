@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+.Main_exp {
+    display: flex;
+    height: 20rem;
+    width: 100%;
+    background-color: #c8e8f3b9;
+}

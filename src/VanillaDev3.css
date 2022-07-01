@@ -1,0 +1,26 @@
+.Vanilla-Main {
+    flex: 1;
+    padding: 1%;
+    text-align: center;
+}
+
+.Vanilla_coding_div {
+    margin-top: 3%;
+    border-radius: 100px;
+    width: 61%;
+    height: 80%;
+    margin-left: 17%;
+    background-color: white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.Vanilla_img {
+    margin-top: 12%;
+
+}
+
+.Vanilla_heading {
+    font-family: 'Nunito', sans-serif;
+
+}

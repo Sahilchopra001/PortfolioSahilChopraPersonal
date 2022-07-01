@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+body {
+    overflow-x: hidden;
+}
+.Main-Container {
+    width: 100%;
+    display: flex;
+    padding-top: 6%;
+}
+  
+.middle-head-div{
+    position: absolute;
+    font-size: clamp(0.5rem, 2.5em, 2.5rem);
+    left: 24.5%;
+    right: 23%;
+    top: 42%;
+    text-align: center;
+}
+
+.circles{
+    position: absolute;
+    opacity: 0.8;
+    border-radius: 50%;
+}
+
+.yellow-big {
+    width: 8%;
+    height: 17%;
+    background-color: orange;
+    right: 4%;
+    top: 80%;
+}
+.pink-small {
+    background-color: palevioletred;
+    width: 2.2%;
+    height: 4.4%;
+    right: 14%;
+    top: 33%;
+}
+
+.pink-big {
+    width: 8%;
+    height: 16%;    
+    background-color: plum;
+    left: 1.5%;
+    top: 81%;
+}
+.purple-half{
+    border-radius: 0 0 0 0;
+    width: 3%;
+    height: 12%;
+    background-color: #a6dbaf;
+    border-radius: 0 80px 80px 0;
+    top: 22%;
+    left: 8.3%;
+
+}
+.blue-small {
+    width: 2.2%;
+    height: 4.4%;
+    background-color: aqua;
+    left: 16%;
+    top: 73.25%;
+}
+
+.red-big {
+    width: 8%;
+    height: 16%; 
+    background-color: red;
+    right: -5%;
+    opacity: 0.6;
+}

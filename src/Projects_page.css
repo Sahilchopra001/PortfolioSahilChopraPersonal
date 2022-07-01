@@ -1,0 +1,52 @@
+.Main-Projects_page {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    /* background-color: black; */
+}
+.Projects_page_content {
+    background: linear-gradient(to left, #F9E7FE, #DAFCFC, #F9E7FE, #DAFCFC);
+    /* background-color: black; */
+    /* color: white; */
+    height: 100%;
+    padding: 1% 0 2% 0;
+}
+
+ .Projects_page_content > h1 {
+    font-family: 'Prompt', sans-serif;
+    font-size: 250%;
+ }
+
+ .Projects_page_content > h6 {
+    font-size: 80%;
+ }
+
+ .Projects_pic_div{
+    display: flex;
+    margin-top: 4.5%;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2% 0 2%;
+ }
+
+ .project_pic_head {
+    font-family: 'Prompt', sans-serif;
+    color: rgba(0, 0, 0, 0.836);
+    margin-top: 2%;
+ }
+
+ .language_text {
+    font-style: italic;
+    margin: 0% 0 4% 0;
+    color: royalblue;
+ }
+.link_btn_project {
+    flex : 1;
+    padding: 2.5% 1% 1% 1%;
+    background-color: rgba(128, 128, 128, 0.219);
+}
+
+.link_div_project {
+    display: flex;
+    margin-top: 6%;
+}

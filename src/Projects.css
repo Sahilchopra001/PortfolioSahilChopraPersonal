@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic&display=swap');
+.Main-Projects {
+    height: 50%;
+    text-align: center;
+}
+ 
+.Main-Projects > h1 {
+    font-family: 'Prompt', sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    cursor: pointer;
+    font-size: 270%;
+    color: rgba(0, 0, 0, 0.637);
+    text-shadow: 5px 5px 5px grey;
+    transition: 1s;
+}
+.Main-Projects > h1:hover {
+    text-shadow: 0px 0px 15px white;
+}
+
+.super-div {
+    display: flex;
+    height: 83%;
+}

@@ -1,0 +1,17 @@
+ .Main_Footer_part_two{
+     background-color: black;
+     margin-top: 2%;
+     padding: 0.5% 0px;
+ }
+ .Main_Footer_part_two > a {
+    text-decoration: none;
+     color: white;
+     margin-left: 6.5%;
+     font-size: 120%;
+     padding: 4%;
+     cursor: pointer;
+     transition: 1s;
+ }
+ .Main_Footer_part_two > a:hover {
+    text-shadow: 0px 0px 15px white;
+ }

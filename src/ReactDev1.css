@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+.ReactDev-Main {
+    flex: 1;
+    /* padding: 20px; */
+    padding : 1%;
+    text-align: center;
+    /* font-family: 'Ubuntu', sans-serif; */
+}
+
+.React_padding_div {
+    margin-top: 3%;
+    border-radius: 100px;
+    width: 61%;
+    height: 80%;
+    margin-left: 17%;
+    background-color: white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.React_img  {
+    margin-top: 12%;
+}
+.React_heading {
+    font-family: 'Nunito', sans-serif;
+}

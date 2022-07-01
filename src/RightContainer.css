@@ -1,0 +1,10 @@
+.right-contain {
+    flex : 1;
+}
+
+.my_pic2 { 
+    margin: 37% 0 0 5%;
+    border-radius: 45% 0 40% 0;
+    width: 70%;
+    height: 60%;
+}

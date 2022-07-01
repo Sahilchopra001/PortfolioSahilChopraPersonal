@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@400&display=swap');
+
+.middle-contain {
+    flex : 2;
+    text-align: center;
+}
+
+
+.my_pic3 {
+    height: 19%;
+    width: 19%;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+.ending-front-page {
+    margin-top: 7%;
+}
+
+.front-contact-btn {
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    padding: 1% 2%;
+    margin-top: 9%;
+    font-size: 110%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.front-contact-btn:hover {
+    box-shadow: 0px 0px 12px 1px black;
+}
+
+.quote {
+    position: absolute;
+    left: 38.5%;
+}
+
+.middle-head {
+    font-size: 2.7rem;
+    font-family: 'Poiret One', cursive;
+    margin-top: 12%;
+}
+
+.animp {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 100%;
+}
+
+  .animp::before,
+  .animp::after {
+    content: " ";
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute; 
+  }
+
+  .animp::before {
+      background: rgb(255, 255, 255);
+      animation: typewriter 4s steps(41) 1s forwards;
+  }
+  
+.animp::after {
+    width: .09em;
+    background: black;
+    animation: typewriter 4s steps(41) 1s forwards,
+        blink 500ms steps(41) infinite;
+  }
+  
+
+  @keyframes typewriter {
+    to {
+        left: 100%;
+    }
+  }
+
+  
+@keyframes blink {
+    to {
+        background: transparent;
+    }
+  }
+  
+
+.itsme { 
+    position: absolute;
+    top: 33%;
+    left: 42%;
+}
+
+.hey {
+    position: relative;
+    cursor: pointer;
+    transition: 1s;
+}
+.hey:hover {
+    text-shadow: 0px 0px 10px black;
+}
+.dev {
+    position: relative;
+}
+
+
+
+.dev::before,
+.dev::after {
+    content: " ";
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute; 
+}
+
+.dev::before {
+    background: rgb(255, 255, 255);
+      animation: typewriter 4s steps(30) 1s forwards;
+}
+
+.dev::after {
+    width: .09em;
+    background: black;
+    animation: typewriter 4s steps(30) 1s forwards,
+        blink 500ms steps(30) infinite;
+}

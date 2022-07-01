@@ -1,0 +1,22 @@
+.Main-Skillset_page {  
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 2%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.918);
+    color: white;
+}
+
+.Main-Skillset_page > h1 {
+    font-family: 'Prompt', sans-serif;
+    color: royalblue;
+    font-size: 250%;
+}
+
+.Skillset_page_content {
+    display: flex;
+    margin-top: 6.5%;
+}

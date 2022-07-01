@@ -1,0 +1,7 @@
+.Main-Skillset_img{
+    flex : 0.6;
+    padding-top: 9%;
+} 
+.Skillset_img_here:hover {
+    cursor: pointer;
+}
